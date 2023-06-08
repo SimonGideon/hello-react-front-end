@@ -104,13 +104,13 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 cd my-folder
-git clone https://github.com/sebalp100/hello-react-front-end/
+git clone https://github.com/SimonGideon/hello-react-front-end
 
 ### Usage
 
 To run the project, execute the following commands in your Ruby terminal:
 
-Make sure you have the backend server running with `rails s` (https://github.com/sebalp100/hello-rails-back-end).
+Make sure you have the backend server running with `rails s` (https://github.com/SimonGideon/hello-rails-back-end).
 
 `npm install` to install the files.
 
