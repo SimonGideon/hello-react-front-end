@@ -3,8 +3,6 @@
 <div align="center">
 
   <h3><b>Hello world front-end</b></h3>
-  <img align="center" src="https://user-images.githubusercontent.com/111214189/232840705-c100d542-3b05-4d14-bf5d-caab5177e8b5.png" />
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
