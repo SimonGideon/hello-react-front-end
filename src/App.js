@@ -1,9 +1,11 @@
+import React from 'react';
+import Greeting from './components/Greeting';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>React 18 Alpha</h1>
+      <Greeting />
     </div>
   );
 }
