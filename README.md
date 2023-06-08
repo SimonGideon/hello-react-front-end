@@ -76,11 +76,6 @@ This is a simple repo to test the connection between React and Rails, using Redu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Not available yet
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
