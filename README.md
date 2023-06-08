@@ -13,7 +13,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -52,20 +51,7 @@ This is a simple repo to test the connection between React and Rails, using Redu
     <li><a href="https://www.npmjs.com/">NPM</a></li>
   </ul>
 </details>
-
 <details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://rubyonrails.org/">Rails</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
@@ -89,8 +75,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Ruby
-- Ruby terminal
+- node installed
+- npm/yarn
 - Github account.
 - Code editor (Visual Studio Code, Atom, etc.)
 
@@ -98,14 +84,14 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-cd my-folder
-git clone https://github.com/sebalp100/hello-react-front-end/
+cd my-folder 
+git clone https://github.com/SimonGideon/hello-rails-back-end/tree/base-files
 
 ### Usage
 
 To run the project, execute the following commands in your Ruby terminal:
 
-Make sure you have the backend server running with `rails s` (https://github.com/sebalp100/hello-rails-back-end).
+Make sure you have the backend server running with `rails s` 
 
 `npm install` to install the files.
 
