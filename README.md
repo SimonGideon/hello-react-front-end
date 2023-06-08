@@ -51,7 +51,6 @@ This is a simple repo to test the connection between React and Rails, using Redu
     <li><a href="https://www.npmjs.com/">NPM</a></li>
   </ul>
 </details>
-<details>
 
 <!-- Features -->
 
@@ -62,8 +61,6 @@ This is a simple repo to test the connection between React and Rails, using Redu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
