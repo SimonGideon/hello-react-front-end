@@ -77,6 +77,9 @@ In order to run this project you need:
 - Github account.
 - Code editor (Visual Studio Code, Atom, etc.)
 
+### Backend 
+[Link](https://github.com/SimonGideon/hello-rails-back-end/tree/base-files)
+
 ### Setup
 
 Clone this repository to your desired folder:
