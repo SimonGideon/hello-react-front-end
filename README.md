@@ -85,7 +85,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 cd my-folder 
-git clone https://github.com/SimonGideon/hello-rails-back-end/tree/base-files
+git clone https://github.com/SimonGideon/hello-react-front-end
 
 ### Usage
 
