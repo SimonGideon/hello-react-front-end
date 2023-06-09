@@ -13,7 +13,6 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -53,20 +52,6 @@ This is a simple repo to test the connection between React and Rails, using Redu
   </ul>
 </details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://rubyonrails.org/">Rails</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
@@ -76,13 +61,6 @@ This is a simple repo to test the connection between React and Rails, using Redu
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-Not available yet
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -94,23 +72,28 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- Ruby
-- Ruby terminal
+- node installed
+- npm/yarn
 - Github account.
 - Code editor (Visual Studio Code, Atom, etc.)
+
+### Backend 
+[Link](https://github.com/SimonGideon/hello-rails-back-end/tree/base-files)
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-cd my-folder
+
+cd my-folder 
 git clone https://github.com/SimonGideon/hello-react-front-end
 
 ### Usage
 
 To run the project, execute the following commands in your Ruby terminal:
 
-Make sure you have the backend server running with `rails s` (https://github.com/SimonGideon/hello-rails-back-end).
+Make sure you have the backend server running with `rails s` 
+
 
 `npm install` to install the files.
 
